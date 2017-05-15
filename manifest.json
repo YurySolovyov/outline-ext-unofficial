@@ -12,7 +12,7 @@
     "default_title": "Outline current page"
   },
   "permissions": [
-    "tabs"
+    "activeTab"
   ],
   "background": {
 		"persistent": false,
